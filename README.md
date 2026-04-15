@@ -1,4 +1,5 @@
 # Josef Menezes CV
+mywebsite:https://josefmenezes.github.io/cvbyj/
 
 ## Overview
 This project is a simple HTML-based Curriculum Vitae (CV) for Josef Menezes, a Data Scientist. It showcases personal information, teaching courses, work experience, skills, and links to additional pages like hobbies and contact details.
